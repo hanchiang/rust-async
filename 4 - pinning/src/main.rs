@@ -57,7 +57,7 @@ fn swap() {
 }
 
 fn main() {
-    println!("pinning to basic");
+    println!("pinning basic");
     basic();
     swap();
 
